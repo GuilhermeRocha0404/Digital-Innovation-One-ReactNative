@@ -2,9 +2,7 @@
 
 ## Introdução ao React-Native
 
-```html
-<img src="./assets/Screenshot_20220622-042733850.jpg" alt="Imagem do projeto" width="200" height="300"/>
-```
+![image](https://raw.githubusercontent.com/GuilhermeRocha0404/Digital-Innovation-One-ReactNative/main/Primeiro%20app/assets/Screenshot_20220622-042733850.jpg)
 
 ## -Conteúdo
 
