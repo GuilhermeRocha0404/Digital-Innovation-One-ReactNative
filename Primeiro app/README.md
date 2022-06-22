@@ -4,7 +4,7 @@
 
 ![image](https://raw.githubusercontent.com/GuilhermeRocha0404/Digital-Innovation-One-ReactNative/main/Primeiro%20app/assets/Screenshot_20220622-042733850.jpg)
 
-## -Conteúdo
+## Conteúdo
 
 - Conhecendo o React-Native
   - O que é React-Native?
