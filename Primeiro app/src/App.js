@@ -1111,10 +1111,10 @@ const style = StyleSheet.create({
     backgroundColor: "transparent"
   },
   redPixel: {
-    backgroundColor: "#C32F38"
+    backgroundColor: "#d10000"
   },
   bluePixel: {
-    backgroundColor: "#3C618F"
+    backgroundColor: "#03329B"
   },
   blackPixel: {
     backgroundColor: "#1e1e1e"
