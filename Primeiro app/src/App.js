@@ -57,6 +57,7 @@ const App = () => {
               <Text style={style.defaultText} >Open my Github</Text>
             </View>
           </Pressable>
+          {/* PIXEL ART DO HOMEM ARANHA */}
           <View /* Agrupamento de linhas */>
             <View style={style.rowller} /* Linha 0 */>
               <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
