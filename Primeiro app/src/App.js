@@ -57,6 +57,997 @@ const App = () => {
               <Text style={style.defaultText} >Open my Github</Text>
             </View>
           </Pressable>
+          <View /* Agrupamento de linhas */>
+            <View style={style.rowller} /* Linha 0 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 1 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 2 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 3 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 4 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 5 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 6 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 7 */>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 8 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]}  /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 9 */>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 10 */>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 11 */>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 12 */>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 13 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 14 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.whitePixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 15 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 16 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 17 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 18 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 19 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 20 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 21 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 22 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 23 */>
+              <View style={[style.defaultPixel, style.nullPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.bluePixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 24 */>
+              <View style={[style.defaultPixel, style.deadPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.redPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <View style={style.rowller} /* Linha 25 */>
+              <View style={[style.defaultPixel, style.deadPixel]}  /* Coluna 1 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 2 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 3 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 4 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 5 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 6 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 7 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 8 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 9 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 10 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 11 */>
+              </View>
+              <View style={[style.defaultPixel, style.deadPixel]} /* Coluna 12 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 13 */>
+              </View>
+              <View style={[style.defaultPixel, style.blackPixel]} /* Coluna 14 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 15 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 16 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 17 */>
+              </View>
+              <View style={[style.defaultPixel, style.nullPixel]} /* Coluna 18 */>
+              </View>
+            </View>
+            <Text style={[style.defaultText]}>GuilhermeRocha0404</Text>
+          </View>
         </View>
       </ImageBackground>
     </SafeAreaView >
@@ -110,5 +1101,27 @@ const style = StyleSheet.create({
     padding: 20,
     marginTop: 20,
     borderRadius: 10,
+  },
+  defaultPixel: {
+    width: 10,
+    height: 10,
+  },
+  nullPixel: {
+    backgroundColor: "transparent"
+  },
+  redPixel: {
+    backgroundColor: "#C32F38"
+  },
+  bluePixel: {
+    backgroundColor: "#3C618F"
+  },
+  blackPixel: {
+    backgroundColor: "#1e1e1e"
+  },
+  whitePixel: {
+    backgroundColor: "white"
+  },
+  deadPixel: {
+    backgroundColor: "black"
   }
 });

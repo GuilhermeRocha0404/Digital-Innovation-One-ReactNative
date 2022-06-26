@@ -2,7 +2,7 @@
 
 ## Introdução ao React-Native
 
-![image](https://raw.githubusercontent.com/GuilhermeRocha0404/Digital-Innovation-One-ReactNative/main/Primeiro%20app/assets/Screenshot_20220622-042733850.jpg)
+![image](https://raw.githubusercontent.com/GuilhermeRocha0404/Digital-Innovation-One-ReactNative/main/Primeiro%20app/assets/Screenshot_20220626-023228662.jpg)
 
 ## Conteúdo
 
@@ -34,5 +34,9 @@
   - Style (StyleSheet)
   - Pressable
   - Linking API
-  - add código nativo no AndroidManifest.xml para abrir link
+  - Add código nativo no AndroidManifest.xml para abrir link
+
+## Bônus
+
+Agora tem uma **Pixel Art** do **Homem Aranha**, feita apenas com o StyleSheet do **React-Native**.
 
